@@ -97,7 +97,7 @@ A quick-access section to the most essential national emergency contact numbers:
 
 - 💼 LinkedIn :  [LinkedIn](https://www.linkedin.com/in/pranshu-kaushik-786865297/)  
 - 🛠️ Github :  [GitHub](https://github.com/pranshukaushik22)  
-- 📧 Email: [prashantkumar02026@gmail.com](mailto:pranshukaushik22@gmail.com)
+- 📧 Email: [pranshukaushik22@gmail.com](mailto:pranshukaushik22@gmail.com)
 
 ---
 
