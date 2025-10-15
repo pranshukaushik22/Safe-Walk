@@ -2,7 +2,7 @@
 
 **SafeWalk** is a web-based night safety tool built using **HTML**, **CSS**, and **JavaScript**. It allows users—especially solo night travelers—to access essential tools like live location tracking, emergency alerts, and a flashlight/alarm system in just one click.
 
->  **Live Preview:** [https://safewalk.netlify.app/](https://safewalk.netlify.app/)
+>  **Live Preview:** [https://pranshukaushik22.github.io/Safe-Walk/](https://pranshukaushik22.github.io/Safe-Walk/)
 
 ---
 
@@ -95,9 +95,9 @@ A quick-access section to the most essential national emergency contact numbers:
 
 **Prashant Kumar**  
 
-- 💼 LinkedIn :  [LinkedIn](https://www.linkedin.com/in/prashant-kumar-268484329)  
-- 🛠️ Github :  [GitHub](https://github.com/PrashantKumar026)  
-- 📧 Email: [prashantkumar02026@gmail.com](mailto:prashantkumar02026@gmail.com)
+- 💼 LinkedIn :  [LinkedIn](https://www.linkedin.com/in/pranshu-kaushik-786865297/)  
+- 🛠️ Github :  [GitHub](https://github.com/pranshukaushik22)  
+- 📧 Email: [prashantkumar02026@gmail.com](mailto:pranshukaushik22@gmail.com)
 
 ---
 
