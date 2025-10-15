@@ -93,7 +93,7 @@ A quick-access section to the most essential national emergency contact numbers:
 
 ##  Developed By
 
-**Prashant Kumar**  
+**Pranshu Kaushik**  
 
 - 💼 LinkedIn :  [LinkedIn](https://www.linkedin.com/in/pranshu-kaushik-786865297/)  
 - 🛠️ Github :  [GitHub](https://github.com/pranshukaushik22)  
